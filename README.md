@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-snake.vercel.app/api/github-contribution-grid-snake.svg?username=msvelez&color_snake=%23ffffff&dot_color_empty=%23161b22&dot_color_filled=%234b4b4b" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/msvelez/msvelez/output/github-snake-dark.svg" alt="Snake Game" />
 </p>
 
 <p align="center">
@@ -65,34 +65,14 @@
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/ffffff/bar-chart.png" width="20px"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.icons8.com/ios/50/ffffff/bar-chart.png" width="20px"/>
+  <img src="https://img.icons8.com/ios/50/ffffff/gears.png" width="20px"/>
 </p>
 
 <h2 align="center">Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msvelez&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=false&locale=es&cache=0" alt="Estadísticas de Sofía" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msvelez&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&hide_border=false&locale=es&cache=0" alt="Lenguajes de Sofía" height="150px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msvelez&theme=transparent&hide_border=false&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msvelez&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://img.icons8.com/ios/50/ffffff/headphones.png" width="20px"/>
-</p>
-<h2 align="center">Currently listening</h2>
-<p align="center">
-  <a href="https://open.spotify.com/user/TU_USUARIO_SPOTIFY">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/run?user_id=TU_ID_SPOTIFY" alt="Spotify" width="350px"/>
-  </a>
-</p>
