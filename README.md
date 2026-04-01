@@ -1,0 +1,98 @@
+<p align="center">
+ <img width="1376" height="635" alt="bannnnner" src="https://github.com/user-attachments/assets/50c83e1c-1763-49d7-93e7-9af39211861b" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-snake.vercel.app/api/github-contribution-grid-snake.svg?username=msvelez&color_snake=%23ffffff&dot_color_empty=%23161b22&dot_color_filled=%234b4b4b" alt="Snake Game" />
+</p>
+
+<p align="center">
+  <a href="https://www.behance.net/marasvleza">
+    <img src="https://img.shields.io/badge/BEHANCE-000000?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/marso_studi0/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/ffffff/star--v1.png" width="20px"/>
+</p>
+
+<h2 align="center">About me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=UX/UI+Designer;3D+Modeler;Digital+Creator;Visual+Storyteller" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <i>"Every design that shines was once set on fire by passion."</i>
+</p>
+
+<p align="center">
+  Soy <b>M. Sofía Vélez A.</b>, estudiante de <b>Creación Digital</b> en la Universidad El Bosque.<br>
+  Enfocada en el diseño <b>UX/UI</b> y el <b>modelado 3D</b>. Me apasiona crear narrativas visuales<br>
+  que conecten a través de la estética y la funcionalidad.
+</p>
+
+<p align="center">
+  📍 Bogotá, Colombia | ₊˚✧ #  ENFJ-A
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/ffffff/gears.png" width="20px"/>
+</p>
+
+<h2 align="center">Technologies</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/PHOTOSHOP-000000?style=for-the-badge&logo=adobephotoshop" />
+  <img src="https://img.shields.io/badge/ILLUSTRATOR-000000?style=for-the-badge&logo=adobeillustrator" />
+  <img src="https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/ffffff/bar-chart.png" width="20px"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/ffffff/bar-chart.png" width="20px"/>
+</p>
+
+<h2 align="center">Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msvelez&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=false&locale=es&cache=0" alt="Estadísticas de Sofía" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msvelez&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&hide_border=false&locale=es&cache=0" alt="Lenguajes de Sofía" height="150px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msvelez&theme=transparent&hide_border=false&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.icons8.com/ios/50/ffffff/headphones.png" width="20px"/>
+</p>
+<h2 align="center">Currently listening</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/TU_USUARIO_SPOTIFY">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/run?user_id=TU_ID_SPOTIFY" alt="Spotify" width="350px"/>
+  </a>
+</p>
