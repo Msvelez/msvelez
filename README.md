@@ -1,6 +1,7 @@
 <p align="center">
- <img width="1376" height="635" alt="bannnnner" src="https://github.com/user-attachments/assets/50c83e1c-1763-49d7-93e7-9af39211861b" />
+<img width="1677" height="727" alt="bannnnnnnnnner" src="https://github.com/user-attachments/assets/98d437c5-9b20-48ce-ac01-12f72f7c307d" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/msvelez/msvelez/output/github-snake-dark.svg" alt="Snake Game" />
